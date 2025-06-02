@@ -43,3 +43,4 @@ Key Azure Services under AZ-104
 •	Compute: Virtual Machines, Scale Sets, App Services, Containers, Functions
 •	Storage: Blob, File, Table, Queue, Azure Files, Backup, Import/Export
 •	Networking: VNets, Subnets, NSG, Firewall, VPN Gateway, ExpressRoute, DNS, Load Balancer, Application Gateway
+• Monitoring: Azure Monitor, Log Analytics, Alerts, Service Health
