@@ -20,6 +20,10 @@ Subnets are subdivisions of a Virtual Network, allowing for better organization 
 
 CIDR notation represents IP addresses and their routing prefix, specifying the range of IP addresses for a network.
 
+Class A network contains 224(IP addresses) or 224 - 2 Hosts,
+Class B network contains 216(IP addresses) or 216 - 2 Hosts,
+Class C network contains 28(IP addresses) or 28 - 2 Hosts 
+
 ## Routes and Route Tables
 
 ### Routes
